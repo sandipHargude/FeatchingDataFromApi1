@@ -1,0 +1,6 @@
+framework module Pods_CompanyTask2Tests {
+  umbrella header "Pods-CompanyTask2Tests-umbrella.h"
+
+  export *
+  module * { export * }
+}

@@ -1,0 +1,6 @@
+framework module Pods_CompanyTask2 {
+  umbrella header "Pods-CompanyTask2-umbrella.h"
+
+  export *
+  module * { export * }
+}
